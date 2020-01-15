@@ -1,1 +1,1 @@
-# repo
+Welcome to my version of Rock, Paper, Scissors. This game was programmed in C# and implements a basic computer that makes its decisions based on a random number generator. Feel free to provide any feedback, and look out for future optimizations and new updates.
